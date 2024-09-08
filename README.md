@@ -12,6 +12,8 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 - 🔍 Always curious about **Finance, Maths and Equity Market**.
 - 🔧 Love working with **Automation tools**, **Machine Learning**, **Data Scraping** and frameworks like **Selenium** and **Tensorflow** to extract and transform large datasets for actionable insights.
 - 🎯 Actively exploring **Equity Market**.
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol201212" alt="anmol201212" /></a> </p>
 
 ## 🔬 Current Projects:
 - 🔗 Building model for **future price predictions** in commodities.
@@ -36,7 +38,6 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 - 🏞️ Frequent traveler with a love for **cold and peaceful places** like **Himachal Pradesh** and **Kashmir**.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol201212" alt="anmol201212" /></a> </p>
 
 
 ## 📫 Let's Connect:

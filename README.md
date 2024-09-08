@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 - 🏞️ Frequent traveler with a love for **cold and peaceful places** like **Himachal Pradesh** and **Kashmir**.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samar2605" alt="Samar2605" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol201212" alt="anmol201212" /></a> </p>
 
 
 ## 📫 Let's Connect:

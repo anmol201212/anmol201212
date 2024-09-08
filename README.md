@@ -35,6 +35,10 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 - 🎬 Rewatching **One Piece** and **F.R.I.E.N.D.S** (and loving every moment!).
 - 🏞️ Frequent traveler with a love for **cold and peaceful places** like **Himachal Pradesh** and **Kashmir**.
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samar2605" alt="Samar2605" /></a> </p>
+
+
 ## 📫 Let's Connect:
 - [LinkedIn](https://linkedin.com/in/anmolchopra12)
 - [Twitter](https://twitter.com/anmolchopra2012)

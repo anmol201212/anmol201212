@@ -4,7 +4,6 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 
 ![](https://komarev.com/ghpvc/?username=anmol201212&style=for-the-badge)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=anmol201212&show_icons=true&theme=radical)
 
 ## 👨‍💻 About Me:
 - 🌱 I specialize in **commodities** and **financial markets**, currently focused on **Grains and Metal Futures** and **Indian Stocks**.
@@ -13,7 +12,6 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 - 🔧 Love working with **Automation tools**, **Machine Learning**, **Data Scraping** and frameworks like **Selenium** and **Tensorflow** to extract and transform large datasets for actionable insights.
 - 🎯 Actively exploring **Equity Market**.
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol201212" alt="anmol201212" /></a> </p>
 
 ## 🔬 Current Projects:
 - 🔗 Building model for **future price predictions** in commodities.
@@ -43,7 +41,7 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 ## 📫 Let's Connect:
 - [LinkedIn](https://linkedin.com/in/anmolchopra12)
 - [Twitter](https://twitter.com/anmolchopra2012)
-- [Instagram](https://www.instagram.com/wttanmol)
+- [Instagram](https://www.instagram.com/thatpunjabitraveller/)
 
 I’m always open to new opportunities and collaborations in the fields of **quantitative finance**, **machine learning**, and **market prediction models**. Feel free to check out my projects and don’t hesitate to reach out to me: anmol.chopra1212@gmail.com!
 

@@ -43,5 +43,5 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 - [Twitter](https://twitter.com/anmolchopra2012)
 - [Instagram](https://www.instagram.com/thatpunjabitraveller/)
 
-I’m always open to new opportunities and collaborations in the fields of **quantitative finance**, **machine learning**, and **market prediction models**. Feel free to check out my projects and don’t hesitate to reach out to me: anmol.chopra1212@gmail.com!
+I’m always open to new opportunities and collaborations in the fields of **quantitative finance**, **machine learning**,**Trading** and **market prediction models**. Feel free to check out my projects and don’t hesitate to reach out to me: anmolchopra0012@gmail.com!
 

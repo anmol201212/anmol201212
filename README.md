@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a **Quantitative Researcher** with a passion for build
 - 📑 Working on an **OHLC dictionary manipulation** and refining how we handle time-series data for financial products.
 
 ## ✨ Fun Facts:
-- 🌍 Currently in **Hyderabad**, India.
+- 🌍 Currently in **Delhi**, India.
 - 🎬 Rewatching **One Piece** and **F.R.I.E.N.D.S** (and loving every moment!).
 - 🏞️ Frequent traveler with a love for **cold and peaceful places** like **Himachal Pradesh** and **Kashmir**.
 
